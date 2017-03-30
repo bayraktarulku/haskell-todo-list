@@ -5,6 +5,7 @@ This program is an interactive TODO list:
 
 Here are the steps of installation:
 
+```
 git clone https://github.com/bayraktarulku/haskell-todo-list.git
 $ cd haskell-todo-list
 $ ghc -o todo_list todo_list.hs
@@ -29,3 +30,4 @@ ToDo list:
 
 ToDo list:
 0: The end
+ ```
