@@ -9,8 +9,12 @@ Here are the steps of installation:
 git clone https://github.com/bayraktarulku/haskell-todo-list.git
 $ cd haskell-todo-list
 $ ghc -o todo_list todo_list.hs
-$ ./to_list
+```
 
+Then you can open a shell
+
+```
+$ ./to_list
 Commands:
 + <String> - Add a TODO entry
 - <Int> - Delete the numbered entry
